@@ -1,1 +1,1 @@
-# payment-site
+# school-site
